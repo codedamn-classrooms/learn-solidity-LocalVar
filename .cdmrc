@@ -1,0 +1,2 @@
+tabs: ['contracts/LocalVar.sol']
+terminals: ['yarn install']
