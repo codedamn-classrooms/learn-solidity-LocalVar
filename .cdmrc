@@ -1,2 +1,3 @@
-tabs: ['contracts/LocalVar.sol']
-terminals: ['yarn install']
+tabs: ["contracts/LocalVar.sol"]
+terminals: ["bun install"]
+run-button: truffle compile
